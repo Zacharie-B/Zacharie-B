@@ -3,7 +3,7 @@
 
 - 📍 [Paris Saclay](https://www.universite-paris-saclay.fr/)
 - :technologist: I'm currently working on a [search project](https://github.com/Ghasnae/TER_Files_d_Attente.git)
--  I also a calisthenics man
+- :man_lifting_weights: I also a calisthenics man
 
 ## Skills
 
