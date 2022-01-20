@@ -2,13 +2,13 @@
 ### IT Network student / France
 
 - 📍 [Paris Saclay](https://www.universite-paris-saclay.fr/)
-- 🌱 I'm currently working on a [search project]()
+- 🌱 I'm currently working on a [search project](https://github.com/Ghasnae/TER_Files_d_Attente.git)
 - 🎼 I also a calisthenics man
 
 ## Skills
 
 ### Network Skills
-<img src="tcp.png" alt="TCP" width=""/>
+<img src="tcp.png" alt="TCP" width="200"/>
 ### Web
 <img src="732212.png" alt="HTML" width="100"/> <img src="CSS.png" alt="CSS" width="100"/> <img src="JS.png" alt="JS" width="100"/> <img src="PHP-logo.svg.png" alt="PHP" width="100"/>
 
