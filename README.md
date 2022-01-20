@@ -2,7 +2,7 @@
 ### IT Network student / France
 
 - 📍 [Paris Saclay](https://www.universite-paris-saclay.fr/)
-- 🌱 I'm currently working on a [search project](https://github.com/Klbgr/EzStudies)
+- 🌱 I'm currently working on a [search project]()
 - 🎼 I also a calisthenics man
 
 ## Skills
