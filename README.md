@@ -8,7 +8,7 @@
 ## Skills
 
 ### Network Skills
-<img src="tcp.png" alt="TCP" width="250"/>
+<img src="tcp.png" alt="TCP" width="200"/> <img src="dmz.png" alt="DMZ" width="100"/> <img src="crypto.jpg" alt="Cryptologie" width="100"/>
 
 ### Software and machine
 <img src="C.png" alt="C" width="100"/><img src="1822px-ISO_C++_Logo.svg.png" alt="C++" width="100"/> <img src="java.png" alt="Java" width="100"/> <img src="python-icon.png" alt="Python" width="100"/>
