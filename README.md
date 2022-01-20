@@ -7,7 +7,7 @@
 
 ## Skills
 
-### Network Skills
+### Network and security Skills
 <img src="tcp.png" alt="TCP" width="300"/> <img src="dmz.jpg" alt="DMZ" width="150"/> <img src="crypto.png" alt="Cryptologie" width="150"/>
 
 ### Software and machine
