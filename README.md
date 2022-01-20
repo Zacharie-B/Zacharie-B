@@ -3,7 +3,7 @@
 
 - 📍 [Paris Saclay](https://www.universite-paris-saclay.fr/)
 - :technologist: I'm currently working on a [search project](https://github.com/Ghasnae/TER_Files_d_Attente.git)
-- :man_lifting_weights: :person_lifting_weights:  I also a calisthenics man
+- :soccer: I also a calisthenics man
 
 ## Skills
 
@@ -11,7 +11,7 @@
 <img src="tcp.png" alt="TCP" width="300"/> <img src="dmz.jpg" alt="DMZ" width="150"/> <img src="crypto.png" alt="Cryptologie" width="150"/>
 
 ### Software and machine
-<img src="C.png" alt="C" width="150"/><img src="1822px-ISO_C++_Logo.svg.png" alt="C++" width="150"/> <img src="java.png" alt="Java" width="150"/> <img src="python-icon.png" alt="Python" width="150"/><img src="154px-Tux-simple.svg.png" alt="Linux" width="150"/>
+<img src="C.png" alt="C" width="100"/><img src="1822px-ISO_C++_Logo.svg.png" alt="C++" width="100"/> <img src="java.png" alt="Java" width="100"/> <img src="python-icon.png" alt="Python" width="100"/><img src="154px-Tux-simple.svg.png" alt="Linux" width="100"/>
 
 ### Others
 <img src="732212.png" alt="HTML" width="100"/> <img src="CSS.png" alt="CSS" width="100"/> <img src="JS.png" alt="JS" width="100"/> <img src="PHP-logo.svg.png" alt="PHP" width="100"/>
